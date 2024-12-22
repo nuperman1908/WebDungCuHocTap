@@ -38,10 +38,8 @@ namespace Models.DAO
                             Discount=g.Key.Discount,
                             StartDate=g.Key.StartDate,
                             EndDate=g.Key.EndDate,
-                            Photo=g.Key.Photo,
-                          
+                            Photo=g.Key.Photo,                          
                             Quantity = g.Sum(s => s.Quantity),
-
                          }).OrderByDescending(n => n.Quantity).Take(6).ToList();
            return model;
         }

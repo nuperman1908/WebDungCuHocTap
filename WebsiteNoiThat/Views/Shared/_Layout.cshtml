@@ -104,10 +104,10 @@
                 <div >
                     <div>
                         @*Sửa slider*@
-                        <img class="slider" src="~/image/slide1.jpg" stt="0" alt="" />
-                        <img class="slider" src="~/image/slide2.jpg" stt="1" alt="" style="display:none;" />
-                        <img class="slider" src="~/image/slide3.jpg" alt="" stt="2" style="display:none;" />
-                        <img class="slider" src="~/image/slide4.jpg" alt="" stt="3" style="display:none;" />
+                        <img class="slider" src="~/image/slider1.png" stt="0" alt="" />
+                        <img class="slider" src="~/image/slider2.png" stt="1" alt="" style="display:none;" />
+                        <img class="slider" src="~/image/slider3.png" alt="" stt="2" style="display:none;" />
+                        <img class="slider" src="~/image/slider4.png" alt="" stt="3" style="display:none;" />
                         <a href="" id="prev"><img src="~/image/Previous-icon.png" /></a>
                         <a href="" id="next"><img src="~/image/Next-2-2-icon.png" /></a>
                     </div>
@@ -126,38 +126,7 @@
             <section id="main">
                 @*left pannel*@
                 <div id="left" class="col-xs-12 col-sm-4 col-md-3">
-                    @*search by price*@
-                    <div class="boxleft hidden-xs">
-                        <div class="titboxl">
-                            @*<i class="fa fa-random fa-x2 fa-lg" aria-hidden="true"></i>*@
-                            <span>Mức Giá</span>
-                        </div>
-                        <div class="ctboxleft">
-                            <div class="boxspl" style="text-align:left;">
-                                <form action="/Product/SearchFocus" method="get">
-                                    <div style="margin-left: 40px;">
 
-                                    <input type="checkbox" class="form-check-input" id="check0" name="check0" value="true">
-                                    <label class="form-check-label" for="check0">Dưới 5 Triệu</label>
-                                    <br />
-                                    <input type="checkbox" class="form-check-input" id="check1" name="check1" value="true">
-                                    <label class="form-check-label" for="check1">5 Triệu - 10 Triệu</label>
-                                    <br />
-                                    <input type="checkbox" class="form-check-input" id="check2" name="check2" value="true">
-                                    <label class="form-check-label" for="check2">10 Triệu - 20 Triệu</label>
-                                    <br />
-                                    <input type="checkbox" class="form-check-input" id="check3" name="check3" value="true">
-                                    <label class="form-check-label" for="check3">20 Triệu - 50 Triệu</label>
-                                    <br />
-                                    <input type="checkbox" class="form-check-input" id="check4" name="check4" value="true">
-                                    <label class="form-check-label" for="check4">Trên 50 Triệu</label>
-
-                                    </div>
-                                    <input type="submit" class="btn btn-secondary" value="Xem" style="font-size: unset; width: 100%" />
-                                </form>
-                            </div>
-                        </div>
-                    </div>
                     @*hot product*@
                     <div class="boxleft hidden-xs">
                         @Html.Action("ProductHot", "Product")

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\models\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|solutionrelative:models\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\areas\\admin\\controllers\\productcatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\areas\\admin\\controllers\\productcatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\controllers\\productcatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\areas\\admin\\views\\product\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\areas\\admin\\views\\product\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\product\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,11 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T02:12:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T02:00:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\Models\\DAO\\ProductDao.cs",
+              "RelativeDocumentMoniker": "Models\\DAO\\ProductDao.cs",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\Models\\DAO\\ProductDao.cs",
+              "RelativeToolTip": "Models\\DAO\\ProductDao.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:50:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:50:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductCateController.cs",
               "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductCateController.cs",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductCateController.cs",
@@ -51,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Show.cshtml",
               "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Show.cshtml",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Show.cshtml",
@@ -64,33 +132,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAALwAAAAAAAAAAAAiwNQAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T15:02:41.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAUwIMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T13:49:27.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Web.config",
               "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Web.config",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Web.config",
@@ -103,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\HomeController.cs",

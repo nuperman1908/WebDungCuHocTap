@@ -63,53 +63,54 @@ namespace WebsiteDungCuHocTap.Areas.Admin.Controllers
 
             ViewBag.ListCate = new SelectList(db.Categories.ToList(), "CategoryId", "Name");
             ViewBag.ListProvider = new SelectList(db.Providers.ToList(), "ProviderId", "Name");
-            if (ModelState.IsValid)
-            {
-                var models = db.Products.SingleOrDefault(a => a.ProductId == n.ProductId);
-                if (models != null)
-                {
-                    ModelState.AddModelError("ProductError", "Mã sản phẩm đã tồn tại!");
-                    return View();
-                }
-                else
-                {
-                    var fileName = Path.GetFileName(UploadImage.FileName);
-                    var path = Path.Combine(Server.MapPath("~/image"), fileName);
-                    UploadImage.SaveAs(path);
-                    n.Photo = UploadImage.FileName;
-                    var model = new Product();
-                    model.ProductId = n.ProductId;
-                    model.Name = n.Name;
-                    model.Photo = n.Photo;
-                    model.Price = n.Price;
-                    model.Quantity = n.Quantity;
-                    model.StartDate = n.StartDate;
-                    model.EndDate = n.EndDate;
-                    model.CateId = n.CateId;
-                    model.ProductId = n.ProductId;
-                    model.Description = n.Description;
-                    if (n.Discount == null)
-                    {
-                        model.Discount = 0;
-                    }
-                    else
-                    {
-                        model.Discount = n.Discount;
-                    }
-                    model.ProviderId = n.ProviderId;
-                    db.Products.Add(model);
-                    db.SaveChanges();
-                }
-            }
-            else
-            {
-                ModelState.AddModelError("ErrorDate", "Ngày kết thúc phải muộn hơn ngày bắt đầu.");
-                return View();
 
+
+            if (UploadImage == null || UploadImage.ContentLength == 0)
+            {
+                ModelState.AddModelError("Photo", "Vui lòng chọn ảnh sản phẩm.");
+                return View(n);
             }
 
-            return RedirectToAction("Show");
+            if (db.Products.Any(p => p.ProductId == n.ProductId))
+            {
+                ModelState.AddModelError("ProductError", "Mã sản phẩm đã tồn tại.");
+                return View(n);
+            }
+
+            try
+            {
+                var fileName = Path.GetFileName(UploadImage.FileName);
+                var path = Path.Combine(Server.MapPath("~/image"), fileName);
+                UploadImage.SaveAs(path);
+                n.Photo = fileName;
+
+                var product = new Product
+                {
+                    ProductId = n.ProductId,
+                    Name = n.Name,
+                    Photo = n.Photo,
+                    Price = n.Price,
+                    Quantity = n.Quantity,
+                    StartDate = n.StartDate,
+                    EndDate = n.EndDate,
+                    CateId = n.CateId,
+                    Description = n.Description,
+                    Discount = n.Discount ?? 0,
+                    ProviderId = n.ProviderId
+                };
+
+                db.Products.Add(product);
+                db.SaveChanges();
+
+                return RedirectToAction("Show");
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", "Có lỗi xảy ra: " + ex.Message);
+                return View(n);
+            }
         }
+
 
         [HttpGet]
         [HasCredential(RoleId = "EDIT_PRODUCT")]
