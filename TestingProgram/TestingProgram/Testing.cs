@@ -1543,7 +1543,7 @@ public static class Testing
                     var isValid =
                         (bool)((IJavaScriptExecutor)driver).ExecuteScript("return arguments[0].checkValidity();",
                             discountElement);
-                    worksheet.Cells[row, 12].Value = "False (discount can null)";
+                    worksheet.Cells[row, 12].Value = "Fail (discount can null)";
                 }
                 catch (WebDriverException e)
                 {
@@ -2004,7 +2004,7 @@ public static class Testing
         MessageBox.Show("Chạy test xong, xem kết quả tại :" + filePath, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
     }
 
-    static ExcelPackage? package;
+    static ExcelPackage? package;    
     static string filePath;
     public static void GenerateResultFile()
     {

@@ -76,6 +76,11 @@ namespace WebsiteDungCuHocTap.Areas.Admin.Controllers
                 ModelState.AddModelError("ProductError", "Mã sản phẩm đã tồn tại.");
                 return View(n);
             }
+            if (n.Price <= 0)
+            {
+                ModelState.AddModelError("ProductError", "Giá tiền không được bé hơn hoặc bằng 0.");
+                return View(n);
+            }
 
             try
             {

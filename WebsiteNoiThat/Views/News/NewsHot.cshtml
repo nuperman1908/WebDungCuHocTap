@@ -5,9 +5,9 @@
 {
 
     <div class="item tintucl">
-        <a href="/News/Show?NewsId=@sp.NewsId"><img src="@Url.Content("~/image/" + sp.Photo)" alt="" /></a>
+        <a style=" display: flex; justify-content: center;" href="/News/Show?NewsId=@sp.NewsId">
+        <img style="width:500px; height:200px;" src="@Url.Content("~/image/" + sp.Photo)" alt="" /></a>
         <p><a href="">@sp.Title</a></p>
-       
     </div>
 }
 

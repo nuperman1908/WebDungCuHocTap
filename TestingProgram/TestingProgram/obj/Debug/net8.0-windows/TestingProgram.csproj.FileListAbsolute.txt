@@ -36,3 +36,4 @@ F:\Learn\TMDT\websitebandodunghoctap\WebsiteDoDungHocTap\TestingProgram\TestingP
 F:\Learn\TMDT\websitebandodunghoctap\WebsiteDoDungHocTap\TestingProgram\TestingProgram\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
 F:\Learn\TMDT\websitebandodunghoctap\WebsiteDoDungHocTap\TestingProgram\TestingProgram\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 F:\Learn\TMDT\websitebandodunghoctap\WebsiteDoDungHocTap\TestingProgram\TestingProgram\obj\Debug\net8.0-windows\TestingP.36CEFCCA.Up2Date
+F:\Learn\TMDT\websitebandodunghoctap\WebsiteDoDungHocTap\TestingProgram\TestingProgram\obj\Debug\net8.0-windows\TestingProgram.sourcelink.json

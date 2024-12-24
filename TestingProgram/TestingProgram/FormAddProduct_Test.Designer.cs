@@ -50,15 +50,15 @@ partial class FormAddProduct_Test
         // lblTestCase
         // 
         lblTestCase.AutoSize = true;
-        lblTestCase.Location = new System.Drawing.Point(50, 72);
+        lblTestCase.Location = new System.Drawing.Point(189, 102);
         lblTestCase.Name = "lblTestCase";
-        lblTestCase.Size = new System.Drawing.Size(133, 15);
+        lblTestCase.Size = new System.Drawing.Size(205, 15);
         lblTestCase.TabIndex = 1;
-        lblTestCase.Text = "Nhập số lượng test case";
+        lblTestCase.Text = "Nhập số lượng test case trên kịch bản";
         // 
         // btnRun
         // 
-        btnRun.Location = new System.Drawing.Point(50, 128);
+        btnRun.Location = new System.Drawing.Point(256, 149);
         btnRun.Name = "btnRun";
         btnRun.Size = new System.Drawing.Size(75, 23);
         btnRun.TabIndex = 5;
@@ -68,7 +68,7 @@ partial class FormAddProduct_Test
         // 
         // txtTestCase
         // 
-        txtTestCase.Location = new System.Drawing.Point(50, 90);
+        txtTestCase.Location = new System.Drawing.Point(194, 120);
         txtTestCase.Name = "txtTestCase";
         txtTestCase.Size = new System.Drawing.Size(200, 23);
         txtTestCase.TabIndex = 2;

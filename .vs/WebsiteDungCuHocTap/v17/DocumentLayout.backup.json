@@ -3,44 +3,64 @@
   "WorkspaceRootPath": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\product\\detailproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\product\\detailproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\product\\catekorea.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\product\\catekorea.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\models\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|solutionrelative:models\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\product\\catehavana.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\product\\catehavana.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\product\\categoryshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\product\\categoryshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\news\\newshot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\news\\newshot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\areas\\admin\\controllers\\productcatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\controllers\\productcatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\contact\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\contact\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\areas\\admin\\views\\product\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\product\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\categoryproduct\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\categoryproduct\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\cart\\tai_khoan_bi_khoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\cart\\tai_khoan_bi_khoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\websitenoithat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\cart\\payby.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\cart\\payby.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\cart\\historycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\cart\\historycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\cart\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\cart\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|f:\\learn\\tmdt\\websitebandodunghoctap\\websitedodunghoctap\\websitenoithat\\views\\product\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteDoDungHocTap.csproj|solutionrelative:websitenoithat\\views\\product\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +70,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DetailProduct.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\DetailProduct.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Product\\DetailProduct.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\DetailProduct.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Product\\DetailProduct.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAH8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T02:12:00.593Z",
+              "WhenOpened": "2024-12-24T09:14:08.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Add.cshtml",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Add.cshtml",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Add.cshtml",
-              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Add.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CateKorea.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\CateKorea.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Product\\CateKorea.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\CateKorea.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Product\\CateKorea.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T02:00:00.393Z",
+              "WhenOpened": "2024-12-24T09:14:08.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductDao.cs",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\Models\\DAO\\ProductDao.cs",
-              "RelativeDocumentMoniker": "Models\\DAO\\ProductDao.cs",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\Models\\DAO\\ProductDao.cs",
-              "RelativeToolTip": "Models\\DAO\\ProductDao.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:50:40.565Z",
+              "Title": "CateHavana.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\CateHavana.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Product\\CateHavana.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\CateHavana.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Product\\CateHavana.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:14:07.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\ProductController.cs",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebsiteNoiThat\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:50:27.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductCateController.cs",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductCateController.cs",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductCateController.cs",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductCateController.cs",
-              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductCateController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:59:14.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Show.cshtml",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Show.cshtml",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Show.cshtml",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Show.cshtml",
-              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Views\\Product\\Show.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAABdAAAAAAAAAA==",
+              "Title": "CategoryShow.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\CategoryShow.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Product\\CategoryShow.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\CategoryShow.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Product\\CategoryShow.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T15:02:48.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAuwGwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T15:02:41.892Z",
+              "WhenOpened": "2024-12-24T09:14:04.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAUwIMAAAA7AAAAAAAAAA==",
+              "Title": "NewsHot.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\News\\NewsHot.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\News\\NewsHot.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\News\\NewsHot.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\News\\NewsHot.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T13:49:27.374Z",
+              "WhenOpened": "2024-12-24T09:14:01.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:13:58.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\CategoryProduct\\Menu.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\CategoryProduct\\Menu.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\CategoryProduct\\Menu.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\CategoryProduct\\Menu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:13:42.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Web.config",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Web.config",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Web.config",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Web.config",
-              "RelativeToolTip": "WebsiteNoiThat\\Web.config",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-19T13:42:42.504Z",
+              "Title": "tai_khoan_bi_khoa.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\tai_khoan_bi_khoa.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\tai_khoan_bi_khoa.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\tai_khoan_bi_khoa.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\tai_khoan_bi_khoa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:13:36.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebsiteNoiThat\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T09:59:53.183Z",
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\Success.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:13:28.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PayBy.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\PayBy.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\PayBy.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\PayBy.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\PayBy.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:13:07.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:13:03.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HistoryCart.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\HistoryCart.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\HistoryCart.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\HistoryCart.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\HistoryCart.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:12:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\Error.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Cart\\Error.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:12:57.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Contact\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Contact\\Contacts.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Contact\\Contacts.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Contact\\Contacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:11:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShowProduct.cshtml",
+              "DocumentMoniker": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\ShowProduct.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Product\\ShowProduct.cshtml",
+              "ToolTip": "F:\\Learn\\TMDT\\websitebandodunghoctap\\WebsiteDoDungHocTap\\WebsiteNoiThat\\Views\\Product\\ShowProduct.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Product\\ShowProduct.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:11:48.81Z",
               "EditorCaption": ""
             }
           ]

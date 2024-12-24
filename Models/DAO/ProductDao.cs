@@ -18,11 +18,11 @@ namespace Models.DAO
         }
         public List<Product> CateKorea()
         {
-            return db.Products.Where(n => n.Discount == 0 || n.EndDate < DateTime.Now || n.StartDate > DateTime.Now).Where(n => n.CateId== 9).Take(4).ToList();
+            return db.Products.Where(n => n.Discount == 0 || n.EndDate > DateTime.Now || n.StartDate < DateTime.Now).Where(n => n.CateId == 7).Take(4).ToList();
         }
         public List<Product> CateHavana()
         {
-            return db.Products.Where(n => n.Discount == 0 || n.EndDate < DateTime.Now || n.StartDate > DateTime.Now).Where(n => n.CateId == 8).Take(4).ToList();
+            return db.Products.Where(n => n.Discount == 0 || n.EndDate > DateTime.Now || n.StartDate < DateTime.Now).Where(n => n.CateId == 8).Take(4).ToList();
         }
         public List<ProductView> ProductHot()
         {
@@ -51,7 +51,7 @@ namespace Models.DAO
         
         public List<Product> NewProduct()
         {
-            return db.Products.Where(n => n.Discount == 0 || n.EndDate < DateTime.Now|| n.StartDate > DateTime.Now).OrderByDescending(n=>n.StartDate).Take(8).ToList();
+            return db.Products.Where(n => n.Discount == 0 || n.EndDate > DateTime.Now|| n.StartDate < DateTime.Now).OrderByDescending(n=>n.StartDate).Take(8).ToList();
         }
         public Product DetailsProduct(int Id)
         {
